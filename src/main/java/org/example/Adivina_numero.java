@@ -24,6 +24,6 @@ public class Adivina_numero {
                 System.out.println("MAS ALTO!!.El numero introducido es menor");
             }
         }
-        System.out.println("Correcto!!!. Lo has conseguido en "+intentos+" intentos.");
+        System.out.println("Enhorabuena!!!. Lo has conseguido en "+intentos+" intentos.");
     }
 }
